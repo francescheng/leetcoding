@@ -1,1 +1,3 @@
-# leetcoding
+# Leetcoding
+
+Where I grind leetcode
